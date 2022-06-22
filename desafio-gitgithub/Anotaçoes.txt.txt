@@ -1,0 +1,23 @@
+Curso de Git/GitHub 
+
+GIT: ternimal extendido para utilizar o uso do GitHub
+
+Link para dowloand: https://git-scm.com/
+
+Windos > cd / dir / mkdir / del / rmdir
+
+SHA: algoritmo de encriptação, guarda dados e gera encriptação.
+
+Objetos do git: bolbs, trees, commits.
+
+Blobs: guarda o sha do arquivo ( caracteres), é o bloco básico da composição.
+Trees: armazena blocos de blobs, é uma arvore que guarda o nome do arquivo (sha).
+Commids: é o objeto que junta tudo, que da sentido, apontando para arvore, e guarda dados como: auto, mensagens, horário que foi criado.
+
+
+Git init
+Git add
+Git commits
+
+
+
