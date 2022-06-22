@@ -1,2 +1,2 @@
-# DIO_DESAFIO_GITHUB_PR
-Desafio de projeto sobre o primeiro repositório no GitHub.
+# DIO_DESAFIO_PR
+Desafio de projeto sobre o primeiro repositório no Git/GitHub.
