@@ -4,7 +4,7 @@ GIT: ternimal extendido para utilizar o uso do GitHub
 
 Link para dowloand: https://git-scm.com/
 
-Windos > cd / dir / mkdir / del / rmdir
+Windows > cd / dir / mkdir / del / rmdir
 
 SHA: algoritmo de encriptação, guarda dados e gera encriptação.
 
